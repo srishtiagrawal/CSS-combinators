@@ -1,0 +1,19 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+/* section p {
+  color: green;
+} */
+
+/* section > p {
+  color: green;
+} */
+
+div + p {
+  color: green;
+}
+
+h1 ~ p {
+  color: green;
+}
